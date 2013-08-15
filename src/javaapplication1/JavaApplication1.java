@@ -15,8 +15,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Persona per = new Persona("Victor", 130);
-        
+        Persona per = new Persona("Victor", 130);      
         System.out.println(per.toString());
     }
 }
